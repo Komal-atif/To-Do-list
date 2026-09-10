@@ -4,3 +4,5 @@ Project Deliverable 1 - Source Code Management with GitHub
 Group Details:
 Komal Atif(53635) -Team leader
 Sadaf Iqbal(56352) -Collaborator
+Wafa Aadi(74775) -Collaborator
+
