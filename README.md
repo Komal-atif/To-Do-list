@@ -6,3 +6,4 @@ Komal Atif(53635) -Team leader
 Sadaf Iqbal(56352) -Collaborator
 Simaab Malik(54910) -Collaborator
 Nimra Tariq(54909) -Collaborator
+Manahil Waseem- Colaborator (working on devops activity)
